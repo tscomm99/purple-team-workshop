@@ -8,7 +8,7 @@ Content for the attendees of the purple team workshop run in 2024.
 
 ![Exercise Flow](images/PT_Exercise.png "Exercise Flow")
 
-## Workshop Phases and Guides
+# Workshop Phases and Guides
 - [Introduction and Setup](intro_and_setup.md)
 - [CTI Exercise](cti-lab.md)
 - [Red Team Emulation](emulation.md)

@@ -105,6 +105,19 @@ sure you record them as well for the discussion.
 - After analysing part 2 you could have these [findings](resources/Blue_Analysis_Part_2.pdf)
 - After analysing part 3 you could have these [findings](resources/Blue_Analysis_Part_3.pdf)
 
-### Analysis Summary :rotating_light: Spoiler Alert! :rotating_light:
+## Analysis Summary :rotating_light: Spoiler Alert! :rotating_light:
 - Detections that are [configured vs. that triggered](resources/purple/configured_vs_triggered.json)
 - Detections that [triggered and are used by Black Basta](resources/purple/black_basta_detection_coverage.json)
+
+## More Ways to Leverage ATT&CK
+
+### Preventive Posture
+- MITRE Engenuity Evaluations https://attackevals.mitre-engenuity.org
+- D3FEND https://d3fend.mitre.org
+- ATT&CK Mitigations https://attack.mitre.org/mitigations/enterprise/
+- Mappings Explorer https://center-for-threat-informed-defense.github.io/mappings-explorer/
+
+### Detection Posture
+- MITRE CAR https://car.mitre.org
+- ATT&CK DataSources https://attack.mitre.org/datasources/
+- Top Techniques https://top-attack-techniques.mitre-engenuity.org/
