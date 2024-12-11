@@ -50,7 +50,7 @@
 - Splunk can be used by all participants concurrently
 
 ### Access Workshop Documentation
-- Open the link to the [workshop repository](https://github.com/tscomm99/purple-team-workshop)
+- Open the link to the [workshop repository](https://github.com/tscomm99/purple-team-workshop-2024)
 - Log in if you are not already
 - You will be using the material in the repo throughout the workshop so please keep it open
 
