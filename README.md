@@ -1,4 +1,4 @@
-# purple-team-workshop
+# Purple Team Workshop
 Content for the attendees of the purple team workshop run in 2024.
 
 
