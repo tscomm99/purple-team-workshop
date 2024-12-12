@@ -106,8 +106,8 @@ sure you record them as well for the discussion.
 - After analysing part 3 you could have these [findings](resources/Blue_Analysis_Part_3.pdf)
 
 ## Analysis Summary :rotating_light: Spoiler Alert! :rotating_light:
-- Detections that are [configured vs. that triggered](resources/purple/configured_vs_triggered.json)
-- Detections that [triggered and are used by Black Basta](resources/purple/black_basta_detection_coverage.json)
+- Detections that are [configured vs. that triggered](resources/cti/purple/configured_vs_triggered.json)
+- Detections that [triggered and are used by Black Basta](resources/cti/purple/black_basta_detection_coverage.json)
 
 ## More Ways to Leverage ATT&CK
 
