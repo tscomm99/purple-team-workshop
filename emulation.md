@@ -43,7 +43,7 @@ Let's RDP in and have a look around
 
 **Step 1.2**
 ```bash
-[KALI:bash] xfreerdp /u:PurpleUser /p:SecurePwd123 /v:10.0.1.15 /cert-ignore
+[KALI:bash] xfreerdp /u:PurpleUser /p:SecurePwd123 /v:10.0.1.15 /cert-ignore /dynamic-resolution
 ```
 ATT&CK Techniques: `T1021.001` `T1078`
 
@@ -332,7 +332,7 @@ With Domain Admin privileges we can now finally log into the 3rd server.
 
 **Step 3.1**
 ```bash
-[KALI:bash] xfreerdp /u:Administrator /p:'DomainPwned!' /d:ATTACKRANGE /v:10.0.1.16 /cert-ignore
+[KALI:bash] xfreerdp /u:Administrator /p:'DomainPwned!' /d:ATTACKRANGE /v:10.0.1.16 /cert-ignore /dynamic-resolution
 ```
 ATT&CK Techniques: `T1021.001` `T1078`
 
