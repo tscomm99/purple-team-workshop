@@ -43,6 +43,7 @@
   - After that you can use `Ctrl` + `Shift` `c` or `v` for the Kali VM
   - Or `Ctrl` + `c`or `v` for the Windows VMs
   - Press `Shift` + `Ctrl` + `Alt` again to hide the menu again and return to the desktop
+- As an alternative you can also use https://yopad.eu to transfer the commands between your computer and the lab VMs
 - If you experience issues with typing special characters like `\` or `|` use the on-screen keyboard of the target VM
 
 ### Access Splunk
