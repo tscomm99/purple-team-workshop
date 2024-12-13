@@ -13,3 +13,6 @@ Content for the attendees of the purple team workshop run in 2024.
 - [CTI Exercise](cti-lab.md)
 - [Red Team Emulation](emulation.md)
 - [Blue Team Analysis](blue-verification.md)
+
+# Workshop Presentation
+- [Purple Team Workshop Slides](resources/Purple_Team_Workshop_Slides.pdf)
